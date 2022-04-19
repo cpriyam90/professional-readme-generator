@@ -1,4 +1,5 @@
 var inquirer = require("inquirer");
+var fs = require("fs");
 var questionList = [
     {
         type: "input",
@@ -47,5 +48,28 @@ var questionList = [
         message: "write tests for your application. Then provide examples on how to run them here."
     },
 
-
 ]
+    function init () {
+        inquirer.prompt(questionList)
+        .then(function (data) {
+            console.log(data)
+            fs.writeFileSync("./generated.md", generateReadme(data))
+        })
+    }
+
+    init ();
+
+function generateReadme (data) {
+return `
+# ${data.title}
+
+![Badge](![GitHub language count](https://img.shields.io/github/languages/count/${data.username}/${data.repo})
+
+## Description
+${data.description}
+
+## Description
+${data.description}
+
+`
+}
