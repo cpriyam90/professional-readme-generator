@@ -69,7 +69,7 @@ var questionList = [
         inquirer.prompt(questionList)
         .then(function (data) {
             console.log(data)
-            fs.writeFileSync("./generated.md", generateReadme(data))
+            fs.writeFileSync("./generatedReadme.md", generateReadme(data))
         })
     }
 
