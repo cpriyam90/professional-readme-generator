@@ -13,11 +13,6 @@ var questionList = [
     },
     {
         type: "input",
-        name: "repository",
-        message: "What is the link of your repository?"
-    },
-    {
-        type: "input",
         name: "title",
         message: "What is the title of your ReadMe?"
     },
@@ -115,7 +110,7 @@ ${data.contribute}
 ${data.tests}
 
 ## Questions? 
-If you have any questions feel free to email me at ${data.email} or connect with me via my github at [${data.username}](${data.repository})
+If you have any questions feel free to email me at ${data.email} or connect with me via my github at [${data.username}](https://github.com/${data.username})
 
 `
 }
