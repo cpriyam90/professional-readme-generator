@@ -8,8 +8,13 @@ var questionList = [
     },
     {
         type: "input",
-        name: "title",
-        message: "What is the title of your ReadMe?"
+        name: "email",
+        message: "What is your email address?"
+    },
+    {
+        type: "input",
+        name: "repository",
+        message: "What is the link of your repository?"
     },
     {
         type: "input",
@@ -58,6 +63,7 @@ var questionList = [
         message: "write tests for your application. Then provide examples on how to run them here."
     },
 
+
 ]
     function init () {
         inquirer.prompt(questionList)
@@ -73,13 +79,36 @@ function generateReadme (data) {
 return `
 # ${data.title}
 
-![Badge](![GitHub language count](https://img.shields.io/github/languages/count/${data.username}/${data.repo})
+![Badge](![GitHub language count](https://img.shields.io/github/languages/count/${data.username}/${data.repository})
 
 ## Description
 ${data.description}
 
-## Description
-${data.description}
+## Installation
+${data.installation}
+
+## Usage
+${data.usage}
+
+## Credits
+${data.credits}
+
+## Licenses
+${data.licenses}
+
+## Features
+${data.features}
+
+## Contribute
+${data.contribute}
+
+## Tests
+${data.tests}
+
+## Questions? Connect below!
+${data.username}
+${data.repository}
+${data.email}
 
 `
 }
