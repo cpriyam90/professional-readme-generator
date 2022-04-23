@@ -84,6 +84,15 @@ return `
 ## Description
 ${data.description}
 
+## Table of Contents
+* Installation
+* Usage
+* Credits
+* Licenses
+* Features
+* Contribute
+* Tests
+
 ## Installation
 ${data.installation}
 
@@ -105,10 +114,8 @@ ${data.contribute}
 ## Tests
 ${data.tests}
 
-## Questions? Connect below!
-${data.username}
-${data.repository}
-${data.email}
+## Questions? 
+If you have any questions feel free to email me at ${data.email} or connect with me via my github at [${data.username}](${data.repository})
 
 `
 }
