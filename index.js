@@ -1,7 +1,9 @@
 //*Citations/Credits*
-//*Tutor Abdullah explained what inquirer is and how to install inquirer package on my repo
-//*TA Charlie explained how customizable shields.io is for badges
-//*Shields.io for generating license badges
+//Tutor Abdullah explained what inquirer is and how to install inquirer package on my repo
+//TA Charlie explained how customizable shields.io is for badges
+//Shields.io for generating license badges
+//license information found on https://choosealicense.com/licenses/
+//Professional readme guide found on this link shared in assignment instructions https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 var inquirer = require("inquirer");
 var fs = require("fs");
@@ -45,7 +47,7 @@ var questionList = [
         type: "list",
         name: "licenses",
         message: "Choose your license.",
-        choices: ["MIT", "ISC", "Apache", "Mozilla"]
+        choices: ["MIT", "Boost_1.0", "Apache_2.0", "Mozilla"]
     },
     {
         type: "input",
@@ -79,7 +81,7 @@ function generateReadme (data) {
 return `
 # ${data.title}
 
-[![License](https://img.shields.io/badge/License-${data.licenses}-blue.svg)](https://choosealicense.com/licenses/${data.licenses})
+[![License](https://img.shields.io/badge/License-${data.licenses}-green)](https://choosealicense.com/licenses/)
 
 ## Description
 ${data.description}
