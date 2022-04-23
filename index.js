@@ -3,6 +3,16 @@ var fs = require("fs");
 var questionList = [
     {
         type: "input",
+        name: "username",
+        message: "What is your Github username?"
+    },
+    {
+        type: "input",
+        name: "title",
+        message: "What is the title of your ReadMe?"
+    },
+    {
+        type: "input",
         name: "title",
         message: "What is the title of your ReadMe?"
     },
