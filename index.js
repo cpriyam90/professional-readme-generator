@@ -1,3 +1,7 @@
+//*Citations/Credits*
+//*Tutor Abdullah explained what inquirer is and how to install inquirer package on my repo
+//*TA Charlie explained how customizable shields.io is for badges
+
 var inquirer = require("inquirer");
 var fs = require("fs");
 var questionList = [
@@ -74,7 +78,7 @@ function generateReadme (data) {
 return `
 # ${data.title}
 
-![Badge](![GitHub language count](https://img.shields.io/github/languages/count/${data.username}/${data.repository})
+[![License](https://img.shields.io/badge/License-${data.licenses}-blue.svg)](https://opensource.org/licenses/${data.licenses})
 
 ## Description
 ${data.description}
