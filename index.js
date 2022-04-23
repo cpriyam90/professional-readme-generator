@@ -80,13 +80,14 @@ return `
 ${data.description}
 
 ## Table of Contents
-* Installation
-* Usage
-* Credits
-* Licenses
-* Features
-* Contribute
-* Tests
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [Credits](#Credits)
+* [Licenses](#Licenses)
+* [Features](#Features)
+* [Contribute](#Contribute)
+* [Tests](#Tests)
+* [Questions](#Questions)
 
 ## Installation
 ${data.installation}
@@ -109,7 +110,7 @@ ${data.contribute}
 ## Tests
 ${data.tests}
 
-## Questions? 
+## Questions
 If you have any questions feel free to email me at ${data.email} or connect with me via my github at [${data.username}](https://github.com/${data.username})
 
 `

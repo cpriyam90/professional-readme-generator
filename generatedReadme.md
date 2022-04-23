@@ -1,41 +1,42 @@
 
-# new readme
+# this is demo
 
-![Badge](![GitHub language count](https://img.shields.io/github/languages/count/cpriyam90/https://github.com/cpriyam90)
+![Badge](![GitHub language count](https://img.shields.io/github/languages/count/cpriyam90/undefined)
 
 ## Description
-it is a test
+this is demo
 
 ## Table of Contents
-* Installation
-* Usage
-* Credits
-* Licenses
-* Features
-* Contribute
-* Tests
+* [Installation](#Installation)
+* [Usage](#Usage)
+* {Credits](#Credits)
+* [Licenses](#Licenses)
+* [Features](#Features)
+* [Contribute](#Contribute)
+* [Tests](#Tests)
+* [Questions](#Questions)
 
 ## Installation
-there are none
+this id demo
 
 ## Usage
-please follow along
+demo]
 
 ## Credits
-no collaborators
+this is demo
 
 ## Licenses
-ISC
+MIT
 
 ## Features
-it has a few
+this is demo
 
 ## Contribute
-please follow beloe
+this is demo
 
 ## Tests
-tests
+this is demo
 
-## Questions? 
+## Questions
 If you have any questions feel free to email me at cpriyam90@gmail.com or connect with me via my github at [cpriyam90](https://github.com/cpriyam90)
 
