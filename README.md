@@ -14,7 +14,7 @@ This application helps a user generate a professional ReadMe using Node.js from 
 
 
 ## Usage
-To generate a Readme, user must have Node.js installed and then run the command node index.js from your terminal. The user will be prompted to answer a few questions and will also be asked their email and Github username. Once completed, a new Readme file will be generated called generatedReadme.md. The file 'generatedReadme.md' is the sample readme that was created using the application, please see in the code files.See attached screenshots for how the generated Readme will look. Click on the video link to see the application in action!
+To generate a Readme, user must have Node.js installed and then run the command node index.js from your terminal. The user will be prompted to answer a few questions and will also be asked their email and Github username. Once completed, a new Readme file will be generated called generatedReadme.md. The file 'generatedReadme.md' is the sample readme that was created using the application, please see in the code files, it is saved in the solution folder.See attached screenshots for how the generated Readme will look. Click on the video link to see the application in action!
 
 
 ## Video-Link
