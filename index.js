@@ -89,6 +89,7 @@ return `
 ## Description
 ${data.description}
 
+
 ## Table of Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
@@ -99,29 +100,37 @@ ${data.description}
 * [Tests](#Tests)
 * [Questions](#Questions)
 
+
 ## Installation
 ${data.installation}
+
 
 ## Usage
 ${data.usage}
 
+
 ## Credits
 ${data.credits}
+
 
 ## Licenses
 ${data.licenses}
 
+
 ## Features
 ${data.features}
+
 
 ## Contribute
 ${data.contribute}
 
+
 ## Tests
 ${data.tests}
 
+
 ## Questions
-If you have any questions feel free to email me at ${data.email} or connect with me via my github at [${data.username}](https://github.com/${data.username})
+If you have any questions feel free to email me at *${data.email}* or connect with me via my github at *[${data.username}](https://github.com/${data.username})*
 
 `
 }

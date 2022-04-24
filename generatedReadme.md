@@ -1,10 +1,11 @@
 
-# ndene
+# Demo
 
-[![License](https://img.shields.io/badge/License-Boost_1.0-green)](https://choosealicense.com/licenses/)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://choosealicense.com/licenses/)
 
 ## Description
-ndnd
+this is a demo
+
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -16,27 +17,35 @@ ndnd
 * [Tests](#Tests)
 * [Questions](#Questions)
 
+
 ## Installation
-ndnd
+this is a demo
+
 
 ## Usage
-ndnd
+this is a demo
+
 
 ## Credits
-ndnd
+this is a demo
+
 
 ## Licenses
-Boost_1.0
+MIT
+
 
 ## Features
-ndnd
+this is a demo
+
 
 ## Contribute
-bdbnd
+this is a demo
+
 
 ## Tests
-ndnd
+this is a demo
+
 
 ## Questions
-If you have any questions feel free to email me at nene or connect with me via my github at [jdjdf](https://github.com/jdjdf)
+If you have any questions feel free to email me at *cpriyam90@gmail.com* or connect with me via my github at *[cpriyam90](https://github.com/cpriyam90)*
 
