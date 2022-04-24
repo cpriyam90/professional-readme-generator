@@ -2,9 +2,12 @@
 //Tutor Abdullah explained what inquirer is and how to install inquirer package on my repo
 //TA Charlie explained how customizable shields.io is for badges
 //Shields.io for generating license badges
-//license information found on https://choosealicense.com/licenses/
+//License information found on https://choosealicense.com/licenses/
 //Professional readme guide found on this link shared in assignment instructions https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+//Markdown guide from https://www.markdownguide.org/cheat-sheet/
+//Module 9 lesson on Node.js
 
+//define inquirer and require
 var inquirer = require("inquirer");
 var fs = require("fs");
 var questionList = [
@@ -76,7 +79,7 @@ var questionList = [
     }
 
     init ();
-
+//Function to generate ReadMe
 function generateReadme (data) {
 return `
 # ${data.title}
