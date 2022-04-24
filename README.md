@@ -22,7 +22,7 @@ To generate a Readme, user must have Node.js installed and then run the command 
 * TA Charlie explained how customizable shields.io is for badges
 * Shields.io for generating license badges
 * License information found on https://choosealicense.com/licenses/
-* Professional readme guide found on this link shared in assignment instructions https://coding-boot-camp.github.io/full-stack/github/..,professional-readme-guide
+* Professional readme guide found on this link shared in assignment instructions https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 * Markdown guide from https://www.markdownguide.org/cheat-sheet/
 * Module 9 lessons on Node.js
 * Starter code provided in assignment to get an understanding of the scope of the assignment
