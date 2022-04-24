@@ -6,8 +6,9 @@ This application helps a user generate a professional ReadMe using Node.js from 
 
 ## Table of Contents
 * [Usage](#Usage)
-* [Credits](#Credits)
+* [Credits/Citations](#Credits/Citations)
 * [Features](#Features)
+* [Applications-Used](#Applications-Used)
 * [Screenshots](#Screenshots)
 * [Video-Link](#Video-Link)
 
@@ -31,7 +32,15 @@ To generate a Readme, user must have Node.js installed and then run the command 
 The user can link their email and Github repo to the generated readme. The readme will also generate a license badge at the top based on user's selection. The table of contents link to corresponding sections in the newly created readme.
 
 
+## Applications-Used
+* Node.js
+* Inquirer
+* Markdown
+* JavaScript
+
+
 ## Screenshots
+See below screenshots of generated Readme
 ![alt="Screenshot generated readme"](./assets/images/screenshot1.png)
 ![alt="Screenshot of generated readme"](./assets/images/screenshot2.png)
 
