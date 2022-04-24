@@ -1,10 +1,10 @@
 
-# demo
+# Sample ReadMe
 
-[![License](https://img.shields.io/badge/License-MIT-green)](https://choosealicense.com/licenses/)
+[![License](https://img.shields.io/badge/License-Boost_1.0-green)](https://choosealicense.com/licenses/)
 
 ## Description
-this is a demo
+This readme was created using node in my terminal
 
 
 ## Table of Contents
@@ -19,31 +19,31 @@ this is a demo
 
 
 ## Installation
-this is a demo
+By running the command node index in my terminal I launced the application and answered the questions
 
 
 ## Usage
-this is a demo
+this is a sample readme and is saved to my repository
 
 
 ## Credits
-this is a demo
+No collaborators
 
 
 ## Licenses
-MIT
+Boost_1.0
 
 
 ## Features
-this is a demo
+This sample readme was created from my terminal to show the functinality of my application
 
 
 ## Contribute
-this is a demo
+No guidelines
 
 
 ## Tests
-this is a demo
+I do not have any tests for this sample
 
 
 ## Questions
